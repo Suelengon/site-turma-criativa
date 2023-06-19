@@ -4,7 +4,7 @@ padding: 0;
 }
 
 .cabecalho{
-    background-color: rgb(92, 149, 233);
+    background-color:(#5a91e9);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -19,4 +19,13 @@ width: 20%;
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
+}
+
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient( )
 }
